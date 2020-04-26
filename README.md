@@ -4,8 +4,8 @@ A python program to send your friends entire movie scripts word by word
 
 
 # directions to run script
-1) Install the fbchat module using 'pip3 install fbchat'\
-2) Add movie scripts or song lyrics using a .script extension to the file. Ensure that these script files are in the same directory as the python script\
+1) Install the fbchat module using 'pip3 install fbchat'
+2) Add movie scripts or song lyrics using a .script extension to the file. Ensure that these script files are in the same directory as the python script
 3) Run the script using python3 as 'python3 movie_chat.py'
 
 # DISCLAIMER
